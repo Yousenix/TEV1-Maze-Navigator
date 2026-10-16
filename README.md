@@ -140,4 +140,4 @@ This is an experimental learning project for exploring local language models, st
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file if you want to define how others may use, modify, and distribute the project.
+This project is open source and available under the MIT License.
